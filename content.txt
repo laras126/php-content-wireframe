@@ -1,0 +1,27 @@
+
+- Home
+	- What is Mr. Bottles?
+	- Image of a nice bottle
+
+- Services
+	- Appraisals
+	- Bottle Cleaning
+
+- Galleries
+	- Soda bottle gallery
+
+- Contact
+	- Contact form
+	- Social links
+	- Phone/address
+
+- About
+	- History
+	- About Mr. Bottles himself
+	- FAQ
+
+- Of Interest
+	- Bottle talk
+	- Events
+	- Merchandise
+	- Links
